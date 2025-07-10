@@ -10,3 +10,8 @@ conda activate huggingface
 pip install ipykernel jupyter
 ```
 
+## Install transfomers from HuggingFace:
+
+```bash
+pip install transformers
+```
